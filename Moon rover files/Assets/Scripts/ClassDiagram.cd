@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cameras_control">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Cameras_control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LGloveScript">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAACAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LGloveScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause_Menu_Anim">
+    <Position X="8.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABQgAQAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pause_Menu_Anim.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RGloveScript">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAACAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RGloveScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause_Menu_Script">
+    <Position X="5.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABQgAQAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pause_Menu_Script.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Terrain_Generation">
+    <Position X="5.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAQAQAAACAACAAAAgAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Terrain_Generation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wheel_Controlelr">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIQAAQAwAEAAAAAAAAAACgBABABAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Wheel_Controler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
