@@ -1,7 +1,9 @@
 A project created for my University License, made in blender and Unity. 
 Assets have been made in blender.
 Two parts of the aplication:
+
   -the animation test of the gloves and helmet.
+  
   -the rover moving in an enviroment made with perlin noise map imitating the Lunar surface.
 
 The gloves and helmet
